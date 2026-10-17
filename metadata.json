@@ -1,0 +1,6 @@
+{
+  "name": "Portal Resmi Desa Tirtasari",
+  "description": "Website resmi pemerintah Desa Tirtasari. Pusat layanan surat mandiri warga, transparansi APBDes, potensi UMKM, dan informasi kabar desa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
